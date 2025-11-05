@@ -1,0 +1,14 @@
+#myGraph {
+    /* width: 500px;
+    height: 500px; */
+    border: 1px solid gray;
+}
+
+.row{
+    display: flex;
+}
+
+.column{
+    flex: 33.33%;
+    padding: 5px;
+}
